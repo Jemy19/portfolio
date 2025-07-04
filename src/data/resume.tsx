@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Albert Jeremy Bernard P. Gellido",
   initials: "AJBPG",
-  url: "https://dillion.io",
+  url: "https://ajbg.vercel.app",
   location: "Pasig City, Philippines",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "",
   description:
     "A motivated Software Engineer and recent graduate with a strong passion for building innovative web applications.",
   summary:
@@ -52,12 +52,12 @@ export const DATA = {
 
         navbar: true,
       },
-      email: {
+      Email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:Gellidojeremy@gmail.com",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
@@ -153,7 +153,7 @@ export const DATA = {
     },
     {
       title: "Streamlit Analytics",
-      href: "https://magicui.design",
+      href: "",
       dates: "March 2025 - May 2025",
       active: true,
       description:
@@ -174,7 +174,7 @@ export const DATA = {
     },
     {
       title: "Prompt the Word",
-      href: "https://llm.report",
+      href: "",
       dates: "June 2025 - July 2025",
       active: true,
       description:
