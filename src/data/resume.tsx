@@ -174,7 +174,7 @@ export const DATA = {
     },
     {
       title: "Prompt the Word",
-      href: "",
+      href: "https://prompttheword.vercel.app",
       dates: "June 2025 - July 2025",
       active: true,
       description:
@@ -191,6 +191,16 @@ export const DATA = {
         "next-themes",
       ],
       links: [
+        {
+          type: "Website",
+          href: "https://prompttheword.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Jemy19/PromptTheWord",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "/PTW.png",
       video: "",
