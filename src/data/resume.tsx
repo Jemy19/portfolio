@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Albert Jeremy Bernard P. Gellido",
+  name: "Jeremy Gellido",
   initials: "AJBPG",
   url: "https://ajbg.vercel.app",
   location: "Pasig City, Philippines",
